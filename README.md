@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/project-cover.png" width="100%" alt="Conceptual scientific artwork for Clinical social determinants" /></p>
+
 # SBDH/SDoH Benchmarking Framework (MIMIC-III + MIMIC-SBDH)
 
 This repository provides a modular, CLI-driven codebase to benchmark traditional ML, frozen transformer embeddings, and end-to-end transformer fine-tuning for Social and Behavioral Determinants of Health (SBDH/SDoH) classification using MIMIC-III discharge summaries and MIMIC-SBDH annotations.
